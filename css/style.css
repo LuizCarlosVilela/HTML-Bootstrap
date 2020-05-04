@@ -1,0 +1,20 @@
+ body{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+.navbar {
+    border-bottom: 1px solid rgb(28, 28, 185);
+    box-shadow: 0 0 10px darkblue;
+}
+.margin{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.title {
+    margin-bottom: 30px;
+    text-shadow: 0 0 4px lightslategray;
+}
+p{
+    margin: 15px;
+    text-shadow: 0 0 2px rgb(110, 135, 160);
+}
